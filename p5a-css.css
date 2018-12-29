@@ -1,0 +1,38 @@
+
+/*  Formato atajo  */
+
+div{
+	margin: 10px;
+	border-width: 16px;
+	border-color: black;
+	padding: 32px;
+}
+/*  Formato reducido
+
+div{
+	margin: 10px 10px 10 px 10px;
+	border-width: 16px 16px 16px 16px;
+	border-color: black;
+	padding: 32px 32px 32px 32px;
+	}
+
+	Formato extendido o normal
+
+
+#div{
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: : 10px;
+	border-top: 16px;
+	border-right: 16px;
+	border-left: 16px;
+	border-bottom: 16px;
+	border-color: black;
+	padding-top: 32px;
+	padding-right: 32px;
+	padding-left: 32px;
+	padding-bottom: 32px;
+}
+
+*/
