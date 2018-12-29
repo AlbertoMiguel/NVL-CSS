@@ -1,0 +1,19 @@
+ul{
+		background-color: green;
+		color: #000000;
+	}
+	li{
+		border-color:red;
+		border-style: dotted;		
+	}
+	#prueba3{
+		background-color:blue;
+		border-style: solid;
+		border-color:green;
+		color:yellow;
+	}
+	.titulo{
+		color: green;
+		text-decoration-line: underline;
+  		text-decoration-style: wavy;
+  		}
