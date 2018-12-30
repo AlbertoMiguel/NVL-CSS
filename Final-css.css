@@ -1,0 +1,120 @@
+/*Parte del CSS que organiza la página y le da formato, desde la cabecera con su logotipo
+hasta el pie de pagina.*/
+
+#contenedor {
+	overflow: hidden;
+	width: 100%;
+	border: 1px solid #bbb;
+	background: #ddd;   
+}
+#cabecera {
+	background: linear-gradient(to right, black, white);
+	width: 100%;
+	height: 105px;
+	padding: 5px;
+}
+#logo{
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 5px;
+	vertical-align: middle;	
+}
+div#cabecera h1{	
+	float:left;
+	color: silver;
+	font-family: all italic;
+}
+#menu {
+	float: left;
+	width: 10%;
+	background-color: #ddd;
+}
+#contenido {
+	float: left;
+  	width: 90%;
+  	background-color: olive;
+}
+#contenido #principal {
+  	float: left;
+  	width: 80%;
+  	background: linear-gradient(to right, #ddd, white);
+  	
+}
+#contenido #secundario {
+  	float: right;
+  	width: 20%;
+  	background-color:olive;
+  	text-align: center;  	
+}
+ 
+#pie {
+	clear: both;
+	padding-top: 10px;
+	padding-bottom: 10px;
+  	background: linear-gradient(to right, black, white);
+  	text-align: center;  	
+}
+p{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+div#secundario img{
+	width: 250px;
+	height: 100px;
+	margin-top: 10px;
+
+}
+
+/*Parte del CSS que da formato a las recetas para poder tenerlas todas en el mismo formato*/
+
+img{
+	display:block;
+	margin:auto;
+}
+
+[data-vegetal] {
+  color: green;
+}
+
+[data-dairy] {
+  color: #bfa442;
+}
+
+[data-oil] {
+  color: olive;
+}
+[data-sugar]{
+	color: brown;
+}
+[data-fish]{
+	color: blue;
+}
+.texto{
+	max-width: 70%;
+	display:block;
+	margin:auto;	
+}
+.img-rece{
+	border: solid black 2px;
+	margin-top: 20px;
+}
+
+/*Parte del CSS que da formato a la zona de comentarios en la página*/
+.comentarios {
+	font-family: all;
+	width:50%;
+	height:100px;
+	border: 2px solid black;
+	display:block;
+	margin:auto;
+}
+
+
+input{
+	max-width: 70%;
+	display:block;
+	margin: auto;
+	margin-bottom: :10px;
+
+}
