@@ -1,0 +1,10 @@
+Memoria
+
+He decidido crear un blo de cocina, de esta manera he podido reutilizar partes de codigo de otros ejercicios para poder inspirarme.
+He tenido que revisar informacion en web debido a que no me cuadraban los divs en columna, y he decidido hacerlo por pordentajes, de esta manera es mas portable a otros dispositivos y pantallas.
+En el blog he añadido listas, enlaces externos, tanto en foto como en texto (anclas internas).
+He utilizado (data) para que siempre que escriba cualquier receta, pensando en apliar el contenido, los ingredientes siempre tengan los mismos colores.
+Utilizacion de parrafos y marcadores fuertes en el html.
+Con respecto al css, he organizado el archivo con comentarios para saber que parte modifica que etiqueta html, de esta forma cada vez que he cometido un error he sabido subsanarlo dependiendo quu parte de la pagina no tuviese el formato que yo queria.
+He utilizado bastantes modificadores de aspecto, ademas de los colores de las fuentes y de los colores solidos de los fondos, he investigado sobre los gradientes en los fondos y he probado a utilizarlos para aprender más.
+Con respecto a los floats, clear y block, me he dado cuenta que hay que tener muy claro que se quiere hacer, ya que aunque no se sepa hacer del todo, se puede consultar en paginas de referencia como Mozilla y W3E, pero hay que tenerlo muy claro.
